@@ -1,2 +1,2 @@
 # taller
-Investigation Workshop Course
+Investigation Workshop Course II
