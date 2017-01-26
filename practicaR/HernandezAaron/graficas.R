@@ -1,10 +1,10 @@
 # *------------------------------------------------------------------
 # | PROGRAM NAME: Graficas
-# | DATE: 23/01/17
-# | CREATED BY: Fernando Sandoval  
+# | DATE: 25/01/17
+# | CREATED BY: Aaron Hernandez  
 # | PROJECT FILE: graficas.R              
 # *----------------------------------------------------------------
-# | PURPOSE: Familiarizarse con R           
+# | PURPOSE: Realizar la practica para conocer el lenguaje R           
 # |
 # *------------------------------------------------------------------
 # | COMMENTS:               
