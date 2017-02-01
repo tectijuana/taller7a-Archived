@@ -31,14 +31,14 @@ list.files()
 	read.csv("Datos.csv")
 	datos <- read.csv("Datos.csv")
 	print(datos)
-	datos <- data.frame(Funds, Departmento)
-	datos$Funds
+	datos <- data.frame(Nombre, Departmento)
+	datos$Nombre
 	datos$Departmento
-		plot(datos$Funds, datos$Departmento)
+		plot(datos$Nombre, datos$Departmento)
 
 	install.packages("ggplot2")
 	library(ggplot2)
-		qplot(datos$Funds, datos$Departmento)
+		qplot(datos$Nombre, datos$Departmento)
 
 # *------------------------------------------------------------------
 # |                
