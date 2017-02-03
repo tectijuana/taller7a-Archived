@@ -4,7 +4,7 @@
 # | CREATED BY:  Gastelum Nieves Carlos
 # | PROJECT FILE: graficas.R              
 # *----------------------------------------------------------------
-# | PURPOSE: Entender y familiarizarse el lenguaje R       
+# | PURPOSE: Entender y familiarizarse con el  lenguaje R       
 # |
 # *------------------------------------------------------------------
 # | COMMENTS:               
