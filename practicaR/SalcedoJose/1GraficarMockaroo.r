@@ -36,5 +36,15 @@
 # IMPORT CSV FILE
 #YOURDATA <- read.csv("MOCK_DATA.csv", na.strings=c(".", "NA", "", "?"), encoding="UTF-8")
 
-datos <- read.csv("C:\\Users\\smjm\\ActITT\\ActNormal\\8voSem\\Repositorios\\taller\\practicaR\\SalcedoJose\\MOCK_DATA.csv");
+# Importar datos a utilizar.
+#datos <- read.csv("C:\\Users\\smjm\\ActITT\\ActNormal\\8voSem\\Repositorios\\taller\\practicaR\\SalcedoJose\\MOCK_DATA.csv");
+datos <- read.csv("MOCK_DATA.csv");
+
+# Graficar la cantidad de dinero que cada persona tiene.
 plot(datos$Money);
+x11();
+
+# Graficar la cantidad de veces que los nombres se repiten.
+plot(datos$FirstName);
+x11();
+plot(datos$LastName);
