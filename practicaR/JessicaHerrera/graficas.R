@@ -14,7 +14,22 @@
 
 list.files()
 data<-read.csv("Datos.csv")
+
+#Datos
+print(data)
+
+#Tabla
+tabla<-read.table("Datos.csv",sep="\t",header=TRUE)
+print(tabla)
+
+#Grafica 1
+plot(data)
+
+#Grafica 2
 plot(data$Departamento)
+
+#Grafica 3
+plot(data$Departamento,main="Empresa",xlab="Departamentos",ylab="Empleados")
 
 
 # *------------------------------------------------------------------
