@@ -1,7 +1,7 @@
 # *------------------------------------------------------------------
 # | PROGRAM NAME: Plotear en R
 # | DATE: 25/1/2017
-# | CREATED BY: Munive Saldaña Evans Josue
+# | CREATED BY: Herrera Garcia Diana Gabriela 
 # | PROJECT FILE: plotear.csv             
 # *----------------------------------------------------------------
 # | PURPOSE:  aprender lenguaje R y el uso de Git          
