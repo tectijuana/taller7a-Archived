@@ -1,7 +1,7 @@
 # *------------------------------------------------------------------
 # | PROGRAM NAME: Plotear en R
 # | DATE: 25/1/2017
-# | CREATED BY: Adrian Mendoza Muñoz 
+# | CREATED BY: Vega Vega Cristian Alexis 
 # | PROJECT FILE: plotear.csv             
 # *----------------------------------------------------------------
 # | PURPOSE:  aprender lenguaje R y el uso de Git          
