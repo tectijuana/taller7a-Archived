@@ -1,37 +1,35 @@
 # *------------------------------------------------------------------
-# | PROGRAM NAME: Practica R Grafica
-# | DATE: 19/01/17
-# | CREATED BY:  Jessica Herrera G.
-# | PROJECT FILE: Graficas.R
+# | PROGRAM NAME: Programa R
+# | DATE: 01/03/2017
+# | CREATED BY: Alvarez Ortega Estephania
+# | PROJECT FILE: Grafica R
 # *----------------------------------------------------------------
 # | PURPOSE:           
-# | Graficacion de datos en lenguaje R
-# *-----------------------------------------------------------------
-# | UPDATES:               
-# | Version 1.0
 # |
 # *------------------------------------------------------------------
-
+# | COMMENTS:               
+# |
+# |  1:  
+# |  2: 
+# |  3: 
+# |*------------------------------------------------------------------
+# | DATA USED:               
+# |Nombres generados aleatoriamente en mocharoo data: .csv
+# |
+# |*------------------------------------------------------------------
+# | CONTENTS:               
+# |
+# |  PART 1:  
+# |  PART 2: 
+# |  PART 3: 
+# *-----------------------------------------------------------------
+# | UPDATES:               
+# |
+# |	
+# *------------------------------------------------------------------
 list.files()
-data<-read.csv("Datos.csv")
-
-#Datos
-print(data)
-
-#Tabla
-tabla<-read.table("Datos.csv",sep="\t",header=TRUE)
-print(tabla)
-
-#Grafica 1
-plot(data)
-
-#Grafica 2
+data<-read.csv("DataBase.csv")
 plot(data$Departamento)
-
-#Grafica 3
-plot(data$Departamento,main="Empresa",xlab="Departamentos",ylab="Empleados")
-
-
 # *------------------------------------------------------------------
 # |                
 # |

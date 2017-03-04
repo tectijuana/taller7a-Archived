@@ -27,10 +27,18 @@
 # |
 # |
 # *------------------------------------------------------------------
-
 list.files()
-data<-read.csv("Datos.csv")
-plot(data$Departamento)
+	read.csv("Datos.csv")
+	datos <- read.csv("Datos.csv")
+	print(datos)
+	datos <- data.frame(Nombre, Departmento)
+	datos$Nombre
+	datos$Departmento
+		plot(datos$Nombre, datos$Departmento)
+
+	install.packages("ggplot2")
+	library(ggplot2)
+		qplot(datos$Nombre, datos$Departmento)
 
 # *------------------------------------------------------------------
 # |                
