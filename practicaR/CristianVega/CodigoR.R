@@ -2,7 +2,7 @@
 # | PROGRAM NAME: Plotear en R
 # | DATE: 25/1/2017
 # | CREATED BY: Vega Vega Cristian Alexis 
-# | PROJECT FILE: plotear.csv             
+# | PROJECT FILE:MOCK_DATA.csv          
 # *----------------------------------------------------------------
 # | PURPOSE:  aprender lenguaje R y el uso de Git          
 # |
@@ -15,8 +15,8 @@
 # |*------------------------------------------------------------------
 
 
-atuador <- read.csv("plotear.csv")
-gdp <- read.table("plotear.csv", header=TRUE)
+atuador <- read.csv("MOCK_DATA.csv")
+gdp <- read.table("MOCK_DATA.csv", header=TRUE)
 plot (gdp)
 
 
