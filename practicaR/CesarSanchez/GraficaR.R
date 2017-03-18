@@ -1,17 +1,17 @@
 # *------------------------------------------------------------------
 # | PROGRAM NAME: Plotear en R
-# | DATE: 25/1/2017
-# | CREATED BY: Vega Vega Cristian Alexis 
-# | PROJECT FILE:MOCK_DATA.csv          
+# | DATE: 19/1/2017
+# | CREATED BY: Sanchez Casas Cesar Gabriel
+# | PROJECT FILE: MOCK_DATA.csv             
 # *----------------------------------------------------------------
-# | PURPOSE:  aprender lenguaje R y el uso de Git          
+# | PURPOSE:  aprender lenguaje R        
 # |
 # *------------------------------------------------------------------
 # | COMMENTS:               
 # |
-# |  1: 1000 registros en archivo csv 
-# |  2: Graficado en R (R Languaje)
-# |  3: 
+# |  1: Graficar en lenguaje R
+# |  2: Plotar 1000 datos 
+# | 
 # |*------------------------------------------------------------------
 
 
@@ -19,11 +19,9 @@ atuador <- read.csv("MOCK_DATA.csv")
 gdp <- read.table("MOCK_DATA.csv", header=TRUE)
 plot (gdp)
 
-
-
 # *------------------------------------------------------------------
-# |  el codigo es corto pero realiza la funcion de leer el archivo y               
-# |  graficarlo.
+# |  El codigo grafica mediante informacion de 1000 usuarios              
+# |  con respecto a su informacion personal
 # |   
 # |
 # |                
