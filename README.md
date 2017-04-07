@@ -6,3 +6,10 @@ Investigation Workshop Course II
 # EVALUACION BLOQUE 2
 
 ![](https://github.com/tectijuana/taller/blob/master/bloque2.png)
+
+# Kanban en orden
+# Overleaf con su templete IEEE con:
+- ABSTRACT
+- 1/3 de marco teorico
+
+
