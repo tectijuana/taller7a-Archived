@@ -5,4 +5,4 @@ Investigation Workshop Course II
 
 # EVALUACION BLOQUE 2
 
-![](http://github.com/tectijuana/taller/bloque2.png)
+![](http://github.com/tectijuana/bloque2.png)
